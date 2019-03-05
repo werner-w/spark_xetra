@@ -1,0 +1,3 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE000A2GS5D8","DMP","DERMAPHARM HLDG INH O.N.",Common stock,"EUR",2984169,2018-02-09,05:00,28,28,28,28,0,1
+"IE00BDR5HM97","XUHY","CFS-DBX.DLHYCBUETFDR 1D",ETF,"EUR",2984170,2018-02-09,05:00,11.68,11.68,11.68,11.68,0,1

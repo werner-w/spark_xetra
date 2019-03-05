@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE000A0JL9W6","VBK","VERBIO VER.BIOENERGIE  ON",Common stock,"EUR",2504343,2018-02-02,20:30,7.04,7.04,7.04,7.04,0,1

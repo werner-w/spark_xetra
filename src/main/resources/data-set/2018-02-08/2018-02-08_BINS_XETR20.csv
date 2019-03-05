@@ -1,0 +1,4 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US0378331005","APC","APPLE INC.",Common stock,"EUR",2506434,2018-02-08,20:30,129.5,129.5,129.5,129.5,0,1
+"US20825C1045","YCP","CONOCOPHILLIPS     DL-;01",Common stock,"EUR",2506465,2018-02-08,20:30,44.56,44.56,44.56,44.56,0,1
+"US30231G1022","XONA","EXXON MOBIL CORP.",Common stock,"EUR",2506483,2018-02-08,20:30,61.69,61.69,61.69,61.69,0,1

@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US1729674242","TRVC","CITIGROUP INC. DL -;01",Common stock,"EUR",2506459,2018-02-01,20:30,62.77,62.77,62.77,62.77,0,1

@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"LU0950674332","SEAC","UBS-ETF-MSCI WLD.S.R.AADL",ETF,"EUR",2994652,2018-02-16,05:00,16.436,16.436,16.436,16.436,0,1

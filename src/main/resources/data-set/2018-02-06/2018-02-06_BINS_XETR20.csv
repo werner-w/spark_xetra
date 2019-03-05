@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US8552441094","SRB","STARBUCKS CORP.",Common stock,"EUR",2506569,2018-02-06,20:30,43.73,43.73,43.73,43.73,0,1

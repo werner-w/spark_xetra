@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US4781601046","JNJ","JOHNSON + JOHNSON    DL 1",Common stock,"EUR",2506514,2018-02-23,20:30,105.76,105.76,105.76,105.76,0,1

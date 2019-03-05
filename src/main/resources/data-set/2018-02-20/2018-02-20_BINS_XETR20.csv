@@ -1,0 +1,4 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE000LED4000","OSR","OSRAM LICHT AG NA O.N.",Common stock,"EUR",2504813,2018-02-20,20:30,67.7,67.7,67.7,67.7,0,1
+"DE0006637200","MGN","MOLOGEN AG",Common stock,"EUR",2505057,2018-02-20,20:30,2.295,2.295,2.295,2.295,0,1
+"US8715031089","SYM","SYMANTEC CORP.     DL-;01",Common stock,"EUR",2506572,2018-02-20,20:30,22.19,22.19,22.19,22.19,0,1

@@ -1,0 +1,4 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE0006231004","IFX","INFINEON TECH.AG NA O.N.",Common stock,"EUR",2505024,2018-02-22,20:30,22.05,22.05,22.05,22.05,0,1
+"US2536511031","DBD","DIEBOLD NIXDORF DL 1;25",Common stock,"EUR",2506473,2018-02-22,20:30,12.19,12.19,12.19,12.19,0,1
+"US3696041033","GEC","GENL EL. CO.      DL -;06",Common stock,"EUR",2506492,2018-02-22,20:30,12.09,12.09,12.09,12.09,0,1

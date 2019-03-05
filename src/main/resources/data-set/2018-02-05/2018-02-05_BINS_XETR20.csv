@@ -1,0 +1,3 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US4581401001","INL","INTEL CORP.       DL-;001",Common stock,"EUR",2506509,2018-02-05,20:30,37.46,37.46,37.46,37.46,0,1
+"US9839191015","XIX","XILINX INC.        DL-;01",Common stock,"EUR",2506603,2018-02-05,20:30,56.03,56.03,56.03,56.03,0,1
